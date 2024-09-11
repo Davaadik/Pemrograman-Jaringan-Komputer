@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\KULIAH\SEMESTER 5\Pemrograman jaringan komputer\Workbook Day 3 - Socket Programming\DUPE\NetworkProgramming-master\MovingObject\MovingObjectClient\bin\Debug\MovingObjectClient.exe.config
+C:\Users\ASUS\Documents\KULIAH\SEMESTER 5\Pemrograman jaringan komputer\Workbook Day 3 - Socket Programming\DUPE\NetworkProgramming-master\MovingObject\MovingObjectClient\bin\Debug\MovingObjectClient.exe
+C:\Users\ASUS\Documents\KULIAH\SEMESTER 5\Pemrograman jaringan komputer\Workbook Day 3 - Socket Programming\DUPE\NetworkProgramming-master\MovingObject\MovingObjectClient\bin\Debug\MovingObjectClient.pdb
+C:\Users\ASUS\Documents\KULIAH\SEMESTER 5\Pemrograman jaringan komputer\Workbook Day 3 - Socket Programming\DUPE\NetworkProgramming-master\MovingObject\MovingObjectClient\obj\Debug\MovingObjectClient.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\KULIAH\SEMESTER 5\Pemrograman jaringan komputer\Workbook Day 3 - Socket Programming\DUPE\NetworkProgramming-master\MovingObject\MovingObjectClient\obj\Debug\MovingObjectClient.Properties.Resources.resources
+C:\Users\ASUS\Documents\KULIAH\SEMESTER 5\Pemrograman jaringan komputer\Workbook Day 3 - Socket Programming\DUPE\NetworkProgramming-master\MovingObject\MovingObjectClient\obj\Debug\MovingObjectClient.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\KULIAH\SEMESTER 5\Pemrograman jaringan komputer\Workbook Day 3 - Socket Programming\DUPE\NetworkProgramming-master\MovingObject\MovingObjectClient\obj\Debug\MovingObjectClient.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\KULIAH\SEMESTER 5\Pemrograman jaringan komputer\Workbook Day 3 - Socket Programming\DUPE\NetworkProgramming-master\MovingObject\MovingObjectClient\obj\Debug\MovingObjectClient.exe
+C:\Users\ASUS\Documents\KULIAH\SEMESTER 5\Pemrograman jaringan komputer\Workbook Day 3 - Socket Programming\DUPE\NetworkProgramming-master\MovingObject\MovingObjectClient\obj\Debug\MovingObjectClient.pdb
